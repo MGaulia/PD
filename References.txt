@@ -1,2 +1,6 @@
+Data source:
+https://www.cryptodatadownload.com/data/binance/
+
+Literature:
 https://www.tylervigen.com/spurious-correlations
 http://www.statistika.mif.vu.lt/wp-content/uploads/2014/05/PE.II-CompLabs-2014.04.01_t.pdf
