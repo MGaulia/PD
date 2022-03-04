@@ -1,4 +1,4 @@
-Data source:
+Data sources:
 https://www.cryptodatadownload.com/data/binance/
 
 Literature:
