@@ -6,3 +6,14 @@ Literature:
 https://www.tylervigen.com/spurious-correlations
 http://www.statistika.mif.vu.lt/wp-content/uploads/2014/05/PE.II-CompLabs-2014.04.01_t.pdf
 https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+https://vitalflux.com/autoregressive-ar-models-with-python-examples/#:~:text=Autoregressive%20(AR)%20models%20are%20a,order%20to%20make%20accurate%20predictions.
+
+Prisatymui literaturos:
+http://cs229.stanford.edu/proj2015/029_report.pdf
+https://www.mdpi.com/1424-8220/21/7/2266
+https://www.emerald.com/insight/content/doi/10.1108/IJOES-12-2018-0185/full/html?casa_token=T13IevXxT2AAAAAA:YVic-2OlTU5IltN8nrT33TIdWlqhk6YsrLQdkqgZKLxESvm2Ylmi1bdpN-iz_qVqRZQ1jYpKe7ggAA2oVFBWbeg3diyKBdSDjQGlpLAjFWoK4wUAgVs
+https://www.sciencedirect.com/science/article/pii/S104244312030072X?casa_token=8dLEMqSgJ_oAAAAA:eeE7Qsg5gtiUyP6JmfUpRKhCDrMJl_4T2E6QJ93Q-5ejhBGpjza_7-0BPa9Roh1qNSByhQv9gw
+https://www.emerald.com/insight/content/doi/10.1108/SEF-06-2021-0237/full/html?utm_source=rss&utm_medium=feed&utm_campaign=rss_journalLatest
+http://www.jatit.org/volumes/Vol97No8/4Vol97No8.pdf
+https://www.preprints.org/manuscript/202009.0216/v1
+https://keep.lib.asu.edu/items/133184
