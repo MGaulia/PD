@@ -7,8 +7,6 @@ https://www.tylervigen.com/spurious-correlations
 http://www.statistika.mif.vu.lt/wp-content/uploads/2014/05/PE.II-CompLabs-2014.04.01_t.pdf
 https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
 https://vitalflux.com/autoregressive-ar-models-with-python-examples/#:~:text=Autoregressive%20(AR)%20models%20are%20a,order%20to%20make%20accurate%20predictions.
-
-Prisatymui literaturos:
 http://cs229.stanford.edu/proj2015/029_report.pdf
 https://www.mdpi.com/1424-8220/21/7/2266
 https://www.emerald.com/insight/content/doi/10.1108/IJOES-12-2018-0185/full/html?casa_token=T13IevXxT2AAAAAA:YVic-2OlTU5IltN8nrT33TIdWlqhk6YsrLQdkqgZKLxESvm2Ylmi1bdpN-iz_qVqRZQ1jYpKe7ggAA2oVFBWbeg3diyKBdSDjQGlpLAjFWoK4wUAgVs
