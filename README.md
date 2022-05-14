@@ -1,4 +1,6 @@
 # PD
+
+Parsed tweet data file: https://drive.google.com/file/d/1tiDzlyhypclWhwBLoSlFp2y5VY2dCdir/view?usp=sharing
 ```
 Projekto planas              02-28* 
 Literatūros apžvalga         03-21*
